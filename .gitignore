@@ -1,0 +1,3 @@
+# ignore all jupyter notebook
+/.ipynb_checkpoints
+.virtual_documents
